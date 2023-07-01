@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_quiz/home_page.dart';
-import 'package:rick_and_morty_quiz/splash_page.dart';
+import 'package:rick_and_morty_quiz/pages/home_page.dart';
+import 'package:rick_and_morty_quiz/pages/splash_page.dart';
 
 void main() {
   runApp(const MyQuizApp());

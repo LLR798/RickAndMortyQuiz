@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_quiz/answer_button.dart';
-import 'package:rick_and_morty_quiz/question.dart';
+import 'package:rick_and_morty_quiz/widgets/answer_button.dart';
+import 'package:rick_and_morty_quiz/widgets/question.dart';
 
 class Quiz extends StatelessWidget {
   final List<Map<String, Object>> questions;
