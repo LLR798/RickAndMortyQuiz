@@ -12,6 +12,10 @@
 
 
 
+https://github.com/LLR798/RickAndMortyQuiz/assets/82819237/a580d15d-d605-4275-a063-55f13951a89b
+
+
+
 
 
 ## 🚀 Tecnologias
